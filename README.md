@@ -2,7 +2,7 @@
 
 I'm a recent graduate with a degree in Computer Science, passionate about software engineering and building innovative solutions.
 
-- 👀 I’m interested in: web and mobile app development, machine learning, and data science.   
+- 👀 I’m interested in: software engineering, machine learning, and data science.   
 - 🌱 I’m currently learning: Tensor Flow and React
 - 💻 I’m looking to collaborate on: Open-source projects / Freelance or contract projects
 - 📫 How to reach me: mona.n.doane@gmail.com
